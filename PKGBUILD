@@ -3,8 +3,8 @@
 
 _gitname=kodi-addon-audioencoder-wav
 pkgname="$_gitname-git"
-_commit=8a1fed5
-pkgver=20170522.8a1fed5
+_commit=2700ba0
+pkgver=20170620.2700ba0
 pkgrel=1
 pkgdesc="WAV Audio Encoder add-on for Kodi"
 arch=('i686' 'x86_64')
